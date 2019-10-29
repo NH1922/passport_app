@@ -1,0 +1,14 @@
+<div class="cont_left" id="information" style="display:block">
+				<ul class="progressbar">
+				<li class="active">Passport Type</li>
+		<li >Applicant Details</li>
+		<li>Family Details</li>
+		<li>Present Residential Address</li>
+		<li>Emergency Contact</li>
+		<li>Identity Certificate/Passport Details</li>
+		<li>Other Details</li>
+		<li>Passport Details Verification</li>
+		<li>Self Declaration</li>
+				</ul>
+			</div>
+			</DIV>
